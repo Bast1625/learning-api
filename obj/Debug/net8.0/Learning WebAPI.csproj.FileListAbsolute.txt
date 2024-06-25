@@ -100,3 +100,4 @@ D:\Dossiers\Bast\Personnal\Programming\Local\Practices\Azure\API\Learning WebAPI
 D:\Dossiers\Bast\Personnal\Programming\Local\Practices\Azure\API\Learning WebAPI\obj\Debug\net8.0\Learning WebAPI.pdb
 D:\Dossiers\Bast\Personnal\Programming\Local\Practices\Azure\API\Learning WebAPI\obj\Debug\net8.0\Learning WebAPI.genruntimeconfig.cache
 D:\Dossiers\Bast\Personnal\Programming\Local\Practices\Azure\API\Learning WebAPI\obj\Debug\net8.0\ref\Learning WebAPI.dll
+D:\Dossiers\Bast\Personnal\Programming\Local\Practices\Azure\API\Learning WebAPI\obj\Debug\net8.0\Learning WebAPI.sourcelink.json
