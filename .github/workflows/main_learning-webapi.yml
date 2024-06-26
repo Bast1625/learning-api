@@ -54,4 +54,4 @@ jobs:
           app-name: 'learning-webapi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AA209004381945E183505C63761DBAAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A7B41F5D1AC4A609DB768BAA8B27C5D }}
